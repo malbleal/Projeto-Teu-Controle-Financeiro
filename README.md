@@ -24,3 +24,12 @@ O sistema deverá ser capaz de realizar as seguintes operações:
 Atenção:
 - Não utilize a biblioteca pandas para resolução desse exercício
 - Deem um nome criativo para a aplicação de vocês
+
+
+
+
+
+Ainda falta: 
+ - Função de exportar relatório.
+ - Fazer um dash com pandas.
+ - Montar um acompanhamento em Bi.
