@@ -31,5 +31,5 @@ Atenção:
 
 Ainda falta: 
  - Função de exportar relatório.
- - Fazer um dash com pandas.
+ - Fazer uma V2 com pandas.
  - Montar um acompanhamento em Bi.
